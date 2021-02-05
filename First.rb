@@ -1,0 +1,5 @@
+print('ahoj')
+print('ahoj')
+puts('hello')
+puts('hello')
+puts('hello')
